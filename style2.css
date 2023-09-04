@@ -1,0 +1,10 @@
+body{
+    background-color:coral;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h2, p{
+    color:black;
+}
+/*
+Esta es la manera de realizar comentarios multi línea
+*/
